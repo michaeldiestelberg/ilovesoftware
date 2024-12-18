@@ -19,13 +19,14 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title></title>
       <link>https://ilovesoftware.io/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ilovesoftware.io/pages/about/</guid>
       
-      <description>&lt;p&gt;TO DO&lt;/p&gt;</description>
+      <description>&lt;p&gt;&amp;ldquo;Do what you love.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;In January 2006, just a few months after I finished school, Paul Graham wrote an essay titled &amp;ldquo;How to Do What You Love&amp;rdquo;. It would have been perfect timing if I had read that essay at that time, but this is not how this story goes. I studied computer science, became a tech journalist for a few years, learned many things about marketing technology in a web agency, and ended up building a martech solution for more than a decade. And then I read that essay.&lt;/p&gt;</description>
       
     </item>
     
