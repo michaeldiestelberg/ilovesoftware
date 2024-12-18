@@ -1,3 +1,5 @@
+# About
+
 "Do what you love."
 
 In January 2006, just a few months after I finished school, Paul Graham wrote an essay titled "How to Do What You Love". It would have been perfect timing if I had read that essay at that time, but this is not how this story goes. I studied computer science, became a tech journalist for a few years, learned many things about marketing technology in a web agency, and ended up building a martech solution for more than a decade. And then I read that essay.
