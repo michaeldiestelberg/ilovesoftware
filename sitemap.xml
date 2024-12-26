@@ -2,25 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ilovesoftware.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reflection/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-i-write/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/maker-time-vs.-manager-time/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilovesoftware.io/posts/maker-time-vs.-manager-time/</loc>
+    <loc>http://localhost:1313/tags/productivity/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilovesoftware.io/posts/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pages/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilovesoftware.io/tags/productivity/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pages/warum-ich-schreibe/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ilovesoftware.io/tags/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pages/about/</loc>
   </url><url>
-    <loc>https://ilovesoftware.io/pages/about/</loc>
-  </url><url>
-    <loc>https://ilovesoftware.io/categories/</loc>
-  </url><url>
-    <loc>https://ilovesoftware.io/pages/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
